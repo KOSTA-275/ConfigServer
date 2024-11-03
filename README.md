@@ -1,4 +1,4 @@
-![configServer](https://github.com/user-attachments/assets/d8ff3c2e-e1e6-42da-af4a-c483e4224936)
+![화면 캡처 2024-11-03 174141](https://github.com/user-attachments/assets/afbfbbfa-e134-48f7-a93b-9efd6fc529a6)
 # 중앙관리 설정
 모든 마이크로서비스의 application.properties는 ConfigServer의 설정을 받아 설정된다.
 
