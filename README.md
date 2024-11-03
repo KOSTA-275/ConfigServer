@@ -32,4 +32,3 @@ dependencies {
 
 # 시스템 아키텍처
 ![화면 캡처 2024-11-03 174141](https://github.com/user-attachments/assets/afbfbbfa-e134-48f7-a93b-9efd6fc529a6)
-123
