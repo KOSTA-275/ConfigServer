@@ -10,7 +10,7 @@ Repository에 키 생성완료.
 모든 마이크로서비스의 application.properties는 ConfigServer의 설정을 받아 설정된다.
 
 # 필수 의존성
-빌드 도구 : build.gradle
+빌드 도구 : Gradle
 
 Config Server 의존성
 <br>
