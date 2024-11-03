@@ -13,10 +13,13 @@ Repository에 키 생성완료.
 빌드 도구 : build.gradle
 
 Config Server 의존성
+<br>
 dependencies {
 	implementation 'org.springframework.cloud:spring-cloud-config-server'
  }
+ <br>
 마이크로 서버 의존성 
+<br>
 dependencies {
 	implementation 'org.springframework.cloud:spring-cloud-starter-config'
  }
